@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+#name input{
+
+    width: 400px;
+    height: 50px;
+    margin-top:30px ;
+    color: red;
+    
+}
+
+
+#name  :hover{
+border-color: red ;
+
+}
+
+
+
+#main{
+    text-align: center;
+}
+
+#two{
+    width: 500px;
+    height: 50px;
+}
+
+#ceety input{
+  margin: 10px;
+    
+}
+
+select :hover{
+   background-color: red;
+  
+}
+
+select {
+    width: 400px;
+    height: 50px;
+ 
+}
+
+
+ button{
+    width: 400px;
+    height: 50px; 
+    font-size: 30px;
+    background-color: greenyellow;
+}
+
